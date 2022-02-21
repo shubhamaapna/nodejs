@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
+    "fail": "node -v"
   },
   "author": "",
   "license": "ISC",
